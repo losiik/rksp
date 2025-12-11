@@ -1,0 +1,1 @@
+INSERT INTO utmn.student (fio) VALUES ('Клосеп Сергей Кириллович');
